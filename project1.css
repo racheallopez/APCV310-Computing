@@ -1,0 +1,34 @@
+/* Body styling */
+body {
+    background-color: white;
+    color: #333333; /* text color */
+    font-family: Georgia, Garamond, serif;
+    font-size: 14pt;
+  }
+  
+  /* Headings */
+  h1, h2, h3 {
+    color: #2e8b57; /* dark green headings */
+    background-color: #e0f0e9; /* soft green background */
+    font-family: 'Century Gothic', Futura, Verdana, sans-serif;
+    text-decoration: underline;
+  }
+  
+  /* Main heading specific styles */
+  h1 {
+    font-size: 28pt;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  /* Other headings */
+  h2, h3 {
+    font-size: 20pt;
+    font-weight: normal;
+    text-align: left;
+  }
+  
+  /* Link styles */
+  a {
+    color: #2e8b57; /* match heading color */
+  }  
